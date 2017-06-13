@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-content here 
-this file will be merged with another file
-there are three lines of content in the file at the master branch location
-
-=======
+This file is the one that should be kept in the merge with Master
 test content
 another thing here
 some more filler content
->>>>>>> bug-fix
