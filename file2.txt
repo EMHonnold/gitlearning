@@ -5,3 +5,4 @@ maybe do something different with it later
 
 line added to test git diff command
 
+line added so there are multiple changes to commit

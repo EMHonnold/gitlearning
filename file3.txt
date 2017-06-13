@@ -1,2 +1,3 @@
 here is another file
 this one will be used to test undoing changes
+line added for testing git reset HEAD
