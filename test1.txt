@@ -1,0 +1,4 @@
+content here 
+this file will be merged with another file
+there are three lines of content in the file at the master branch location
+
