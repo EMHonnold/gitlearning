@@ -1,0 +1,4 @@
+here is another file
+this one will be used to test undoing changes
+this is a third line
+actually this line will be deleted
